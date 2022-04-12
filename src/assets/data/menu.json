@@ -1,0 +1,16 @@
+[
+  {
+    "menu":"Dashboard",
+    "redirect":"/dashboard"
+  },
+  {
+    "menu":"Usuários",
+    "redirect":"/dashboard/usuarios"
+  },
+  {
+    "menu":"Reportes",
+    "redirect":"/dashboard/reportes"
+  }
+
+
+]
